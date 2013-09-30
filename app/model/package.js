@@ -1,4 +1,4 @@
 sumeru.packages(
-
+'helloworld.js'
 )
 
